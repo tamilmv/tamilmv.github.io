@@ -25,4 +25,6 @@ paginate: false
 
 **[Download Server 2](https://drive.unblocked.workers.dev/Mirzapur%2520(2018)%2520Season%25201%2520%5BTelugu%2520%2B%2520Tamil%2520%2B%2520Hindi%5D%2520750MB%2520%5BTentrockers%5D.mkv?rootId=0AJtZkTkXLBuYUk9PVA)**
 
-**[](https://drive.unblocked.workers.dev/Mirzapur%2520(2018)%2520Season%25201%2520%5BTelugu%2520%2B%2520Tamil%2520%2B%2520Hindi%5D%2520750MB%2520%5BTentrockers%5D.mkv?rootId=0AJtZkTkXLBuYUk9PVA)===================**
+[](https://drive.unblocked.workers.dev/Mirzapur%2520(2018)%2520Season%25201%2520%5BTelugu%2520%2B%2520Tamil%2520%2B%2520Hindi%5D%2520750MB%2520%5BTentrockers%5D.mkv?rootId=0AJtZkTkXLBuYUk9PVA)**\===================**
+
+**Follow Telegram: [@isaiminidownload](tg://resolve/?domain=isaiminidownload)**
