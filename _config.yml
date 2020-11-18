@@ -84,7 +84,7 @@ sent_message_url: "/contact/message-sent/"
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: blue
 permalink: /:title/
 collections:
   authors:
