@@ -1,22 +1,55 @@
 name: Isaimini
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: Isaimini | Download and Watch Latest Tamil, Telugu, Malayalam, Hindi
+  Movies at High Quality.
+description: Download and Watch Latest Tamil, Telugu, Malayalam, Hindi Movies at
+  High Quality. Tamil Latest Movies and Tamil Dubbed Movies Free Download in HD
+  Online Watching Free Tentrockers
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: false
+  - isaimini
+  - moviesda
+  - movies
+  - tamilrockers
+  - hindi
+  - telugu
+  - malaylam
+  - hollywood
+  - bollywood
+  - torrent
+  - 720p
+  - 1gb
+  - 400mb
+  - serials
+  - series
+  - cricket
+  - online
+  - movierulz
+  - 123movies
+  - isaidub
+  - kuttymovies
+  - kuttyrockers
+  - srirockers
+  - wetransfer
+  - dubbed
+  - telegram
+  - tamilkit
+  - movieskit
+  - proxy
+show_hero: true
+paginate: 20
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  - url: /category/Tamil/
+    title: Tamil Movies
+  - title: Telugu Movies
+    url: /category/Telugu/
+  - url: /category/Hindi/
+    title: Hindi Movies
+  - title: English Movies
+    url: /category/Hollywood/
+  - url: /category/Series/
+    title: Web Series
+  - title: Telegram
+    url: tg://resolve/?domain=isaiminidownload
+email: ""
 disqus_username: disqus_username
