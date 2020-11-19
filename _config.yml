@@ -120,7 +120,7 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
   - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-sitemap 
 
 # Exclude my node related stuff
 exclude: [
