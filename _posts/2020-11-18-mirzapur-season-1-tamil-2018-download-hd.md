@@ -1,7 +1,7 @@
 ---
 date: 2020-11-18 23:57:37
 layout: post
-title: Mirzapur Season 1 Tamil (2018) Download HD
+title: Mirzapur Season 1 Tamil (2018) Download HD Tamilrockers
 subtitle: Mirzapur tamil episodes download hd tamilrockers
 description: Mirzapur tamil episodes download hd tamilrockers, Mirzapur Season 1
   Tamil (2018) Download HD
