@@ -35,7 +35,7 @@ tags:
   - tamilkit
   - movieskit
   - proxy
-show_hero: false
+show_hero: true
 paginate: 20
 menu:
   - title: Home
