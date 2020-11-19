@@ -39,15 +39,15 @@ paginate: 20
 menu:
   - title: Home
     url: /
-  - url: /category/Tamil/
+  - url: /category/tamil-movies
     title: Tamil Movies
   - title: Telugu Movies
-    url: /category/Telugu/
-  - url: /category/Hindi/
+    url: /category/telugu-movies
+  - url: /category/hindi-movies
     title: Hindi Movies
   - title: English Movies
-    url: /category/Hollywood/
-  - url: /category/Series/
+    url: /category/english-movies
+  - url: /category/web-series
     title: Web Series
   - title: Telegram
     url: tg://resolve/?domain=isaiminidownload
