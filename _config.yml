@@ -137,5 +137,6 @@ exclude: [
 
 # Theme
 version: v3.1.0
+
 feed:
-  posts_limit: 20
+  posts_limit: 2000
