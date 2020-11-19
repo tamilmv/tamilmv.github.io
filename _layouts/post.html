@@ -30,11 +30,13 @@
                 {% include pagination-post.html progressBar=true %}
 
                 {% include toc.html %}
-<center>
-    <!-- Bulletprofit - Ad Display Code -->
-<div id="adm-container-22891"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?22891&5287&300&250&4&0&39"></script>
+                <center>
+                <!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-22892"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?22892&5287&336&280&4&0&38"></script>
 <!-- Bulletprofit - Ad Display Code -->
-</center>   
+</center>
+                
+ 
     {{ content }}
 
                 {% include pagination-post.html %}
@@ -43,6 +45,11 @@
             {% if site.two_columns_layout %}
                 <aside class="see-also">
                     <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    <center>
+    <!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-22891"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?22891&5287&300&250&4&0&39"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</center>  
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                         {% assign shuffled_array = next_posts | shuffle %}
