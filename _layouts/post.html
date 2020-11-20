@@ -5,8 +5,10 @@
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
-
+ 
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
+ 
+
             <article role="article" class="post-content">
                 <p class="post-info">
                     {% if page.date %}
@@ -16,7 +18,7 @@
                         </time>
                     {% endif %}
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
-                    <span>{{ minutesText }}</span>
+                    <span>{{ minutesText }}</span> <span>{{ post.category }}</span>
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
@@ -28,15 +30,32 @@
                 {% include pagination-post.html progressBar=true %}
 
                 {% include toc.html %}
-
-                {{ content }}
-
+                <center>
+                <!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-22892"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?22892&5287&336&280&4&0&38"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</center>
+                
+ 
+    {{ content }}
+<div class="tags">
+                                            {% for tag in post.tags %}
+                                                {% if tag != "" %}
+                                                    <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                                                {% endif %}
+                                            {% endfor %}
+                                        </div>
                 {% include pagination-post.html %}
             </article>
 
             {% if site.two_columns_layout %}
                 <aside class="see-also">
                     <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    <center>
+    <!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-22891"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?22891&5287&300&250&4&0&39"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</center>  
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                         {% assign shuffled_array = next_posts | shuffle %}
@@ -116,9 +135,9 @@
         <script type="application/ld+json">
         {
             "@context": "http://schema.org",
-            "@type": "BlogPosting",
+            "@type": "NewsArticle",
             "name": "{{ page.title }}",
-            "headline": "{{ page.subtitle }}",
+            "headline": "{{ page.title }}",
             "description": "{{ page.description }}",
             "image": "{{ page.image }}",
             "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
@@ -167,6 +186,9 @@
                var app_exclude_domains = ["hd.isaiminiweb.online"];
            </script>
            <script src='//gplinks.in/js/full-page-script.js'></script>
+                  <!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-22890"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?22890&5287&970&90&4&0&42"></script>
+<!-- Bulletprofit - Ad Display Code -->
            
     </body>
 </html>
