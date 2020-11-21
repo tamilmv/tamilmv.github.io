@@ -14,6 +14,7 @@ tags:
   - movies
   - telugu
 author: tamilyogi
+image: https://images.hungama.com/c/1/4db/921/2659192/2659192_1280x800.jpg
 paginate: false
 ---
 **Name**: Harry Potter and the Deathly Hallows – Part 2
