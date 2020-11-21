@@ -15,6 +15,7 @@ tags:
   - telugu
   - english
 author: tamilyogi
+image: https://www.godsground.com/wp-content/uploads/2020/04/narnia-poster-wide.jpg
 paginate: false
 ---
 **Name**: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
