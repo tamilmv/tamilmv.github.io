@@ -15,6 +15,7 @@ tags:
   - telugu
   - hollywood
 author: tamilyogi
+image: https://images.hungama.com/c/1/f6d/06a/2009191/2009191_1280x800.jpg
 paginate: false
 ---
 **Name**: Harry Potter and the Half-Blood Prince
