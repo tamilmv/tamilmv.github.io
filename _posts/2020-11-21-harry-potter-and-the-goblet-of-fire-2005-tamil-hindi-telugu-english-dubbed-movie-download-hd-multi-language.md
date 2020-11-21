@@ -15,6 +15,7 @@ tags:
   - movie
   - ""
 author: tamilyogi
+image: https://images.hungama.com/c/1/f65/c96/2019258/2019258_1280x800.jpg
 paginate: false
 ---
 **Name**: Harry Potter and the Goblet of Fire
