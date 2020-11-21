@@ -14,6 +14,7 @@ tags:
   - The Voyage of the Dawn Treader
   - ""
 author: tamilyogi
+image: https://whatsondisneyplus.com/wp-content/uploads/2020/10/Voyage-of-the-Dawn-Treader.png
 paginate: false
 ---
 **Name**: The Chronicles Of Narnia: The Voyage of the Dawn Treader
