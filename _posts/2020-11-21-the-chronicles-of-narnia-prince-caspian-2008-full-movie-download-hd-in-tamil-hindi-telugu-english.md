@@ -14,7 +14,7 @@ tags:
   - telugu
   - english
 author: tamilyogi
-image: https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5AE75EDF316F6865A8B4B5B3287E01A1CE77CFF00E5DD98E32B431DF9373C100/scale?width=1200&aspectRatio=1.78&format=jpeg
+image: https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5AE75EDF316F6865A8B4B5B3287E01A1CE77CFF00E5DD98E32B431DF9373C100
 paginate: false
 ---
 **Name**: The Chronicles of Narnia: Prince Caspian
