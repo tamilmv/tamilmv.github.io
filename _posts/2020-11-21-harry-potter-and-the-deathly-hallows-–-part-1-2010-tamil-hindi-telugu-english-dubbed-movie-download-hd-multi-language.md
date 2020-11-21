@@ -12,6 +12,7 @@ tags:
   - hindi
   - telugu
 author: tamilyogi
+image: https://images.hungama.com/c/1/d3b/401/2009174/2009174_1280x800.jpg
 paginate: false
 ---
 **Name**: Harry Potter and the Deathly Hallows – Part 1
