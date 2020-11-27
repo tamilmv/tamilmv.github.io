@@ -9,8 +9,6 @@ description: soorarai pottru movie download in masstamilan soorarai pottru movie
   download tamilrockers kuttymovies soorarai pottru movie download movierulz
 image: /assets/img/uploads/soorarai-pottru-trailer.jpg
 ---
-<center>
-
 \=====================
 
 [Download 400 MB](https://drive.unblocked.workers.dev/Soorarai%2520Pottru/Soorarai%2520Pottru%2520(2020)%2520400MB%2520%5BTentrockers%5D.mkv?rootId=0AJtZkTkXLBuYUk9PVA)
@@ -20,8 +18,6 @@ image: /assets/img/uploads/soorarai-pottru-trailer.jpg
 [Download 1.5 GB](https://drive.unblocked.workers.dev/Soorarai%2520Pottru/Soorarai%2520Pottru%2520(2020)%25201.3GB%2520%5BTentrockers%5D.mkv?rootId=0AJtZkTkXLBuYUk9PVA)
 
 \=====================
-
-</center>
 
 Keywords:
 
