@@ -6,6 +6,7 @@ title: "Pirates of the Caribbean: Salazar's Revenge (2011) Movie Download HD
 description: "Pirates of the Caribbean: Salazar's Revenge (2011) Movie Download
   [Tamil + English + Hindi + Telugu] HD Tamilrockers torrent and google drive
   links"
+image: /assets/img/uploads/pocposter.png
 ---
 <!--StartFragment-->
 
