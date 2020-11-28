@@ -22,11 +22,9 @@ image: /assets/img/uploads/ne.jpg
 
 \========================
 
-
-
 **Keywords**:
 
-tenet movie download in isaidub
+tenet movie download in isaidubb.co
 tenet movie download telegram link
 tenet movie download in moviesda
 tenet movie download in hindi filmyzilla
