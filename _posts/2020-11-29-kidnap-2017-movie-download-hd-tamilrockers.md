@@ -17,8 +17,8 @@ image: /assets/img/uploads/poster5fb00619fa822eb5.jpg
 
 \=====================
 
-Download in 400 MB
+[Download in 400 MB](https://drive.unblocked.workers.dev/(%2520Telegram%2520%40isaiminidownload%2520)%2520-%2520Kidnap%2520(2017)%2520BR-Rip%2520-%2520Org%2520%5BTamil%2520%2B%2520Telugu%5D%2520-%2520450MB%2520-%2520ESub.mkv?rootId=0AN9zhQ1hps-9Uk9PVA)
 
-Download in 650 MB
+[Download in 650 MB](https://drive.unblocked.workers.dev/(%2520Telegram%2520%40isaiminidownload%2520)%2520-%2520Kidnap%2520(2017)%2520BR-Rip%2520-%2520Org%2520%5BTamil%2520%2B%2520Telugu%5D%2520-%2520450MB%2520-%2520ESub.mkv?rootId=0AN9zhQ1hps-9Uk9PVA)
 
 \=====================
