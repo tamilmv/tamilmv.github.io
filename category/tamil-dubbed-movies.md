@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Tamil Dubbed Movies
+title: Torrent
 slug: "{{slug}}"
 ---
