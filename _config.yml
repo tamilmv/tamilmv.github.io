@@ -36,7 +36,7 @@ tags:
   - movieskit
   - proxy
 show_hero: false
-paginate: 20
+paginate: 10
 menu:
   - title: Home
     url: /
