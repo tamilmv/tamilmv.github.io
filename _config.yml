@@ -82,6 +82,12 @@ categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
 
+# Proxies
+proxy1: "https://movies.isaimini.live" # the base hostname & protocol for your site
+proxy2: "https://moviesda.isaimini.live" # the base hostname & protocol for your site
+proxy3: "https://tamilyogi.isaimini.live" # the base hostname & protocol for your site
+
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
