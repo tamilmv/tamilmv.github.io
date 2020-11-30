@@ -72,6 +72,7 @@ collections:
         widget: "string"
       - label: "File Type"
         name: "type"
+        default: "Video"
         widget: "string"
       - label: "Torrent"
         name: "torrent"
