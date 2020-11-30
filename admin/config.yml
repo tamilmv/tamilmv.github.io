@@ -44,6 +44,13 @@ collections:
         name: "layout"
         widget: "hidden"
         default: "movie"
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - label: "Name"
         name: "title"
         widget: "string"
@@ -81,6 +88,13 @@ collections:
         name: "layout"
         widget: "hidden"
         default: "torrent"
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - label: "Name"
         name: "title"
         widget: "string"
@@ -113,6 +127,13 @@ collections:
         name: "layout"
         widget: "hidden"
         default: "post"
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - label: "Title"
         name: "title"
         widget: "string"
