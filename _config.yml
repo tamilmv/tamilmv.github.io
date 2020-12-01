@@ -35,7 +35,7 @@ tags:
   - tamilkit
   - movieskit
   - proxy
-show_hero: true
+show_hero: false
 paginate: 20
 menu:
   - title: Home
@@ -81,6 +81,18 @@ language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
+
+# Proxies
+proxy0: "https://tamilmv.isaimini.live" # the base hostname & protocol for your sit
+proxy1: "https://movies.isaimini.live" # the base hostname & protocol for your site
+proxy2: "https://moviesda.isaimini.live" # the base hostname & protocol for your site
+proxy3: "https://tamilyogi.isaimini.live" # the base hostname & protocol for your site
+proxy4: "http://tamilyogi.isaiminiweb.online"
+proxy5: "http://tamilmv.isaiminiweb.online"
+proxy6: "http://moviesda.isaiminiweb.online"
+proxy7: "http://movies.isaiminiweb.online"
+proxy8: "http://tamilgun.isaiminiweb.online"
+proxy9: "http://tamilrockers.isaiminiweb.online"
 
 # Build settings
 markdown: kramdown
