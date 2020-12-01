@@ -44,13 +44,6 @@ collections:
       - label: "Link 2"
         name: "link2"
         widget: "string"
-      - label: "Category"
-        name: "category"
-        widget: "relation"
-        collection: "categories"
-        searchFields: ["title"]
-        valueField: "slug"
-        displayFields: ["title"]
   - label: "Song"
     name: "songs"
     folder: "_posts"
