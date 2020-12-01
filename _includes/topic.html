@@ -1,4 +1,4 @@
-{% for category in site.categories %}
+{% for category in site.categories limit:5 %}
 <div class="line">{{ category[0] | capitalize }}</div>
   {% for post in category[1] %}
    <div class="f" title="{{ post.title }}">
