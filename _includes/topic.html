@@ -1,3 +1,4 @@
+{% for category in paginator.categories %}
 {% for category in site.categories %}
 <div class="line">{{ category[0] | capitalize }}</div>
   {% for post in category[1] %}
@@ -7,6 +8,5 @@
 </div>
   {% endfor %}
 {% endfor %}
-
-
-
+{% endfor %}
+{% include pagination-home.html %}
