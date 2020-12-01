@@ -7,7 +7,6 @@ description: Mirzapur tamil episodes download hd tamilrockers, Mirzapur Season 1
   Tamil (2018) Download HD
 image: /assets/img/uploads/mirzapur-season-1-downlaod-1280x720.jpg
 optimized_image: /assets/img/uploads/mirzapur-season-1-downlaod-1280x720.jpg
-category: "{{slug}}"
 author: tamilyogi
 paginate: false
 ---
