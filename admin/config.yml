@@ -3,31 +3,6 @@ backend:
   branch: master
 media_folder: "assets/img/uploads"
 collections:
-  - label: "Categories"
-    name: "categories"
-    folder: "category"
-    create: true
-    editor:
-      preview: false
-    slug: "{{slug}}"
-    preview_path: "category/{{slug}}"
-    extension: "md"
-    fields:
-      - label: "Layout"
-        name: "layout"
-        widget: "hidden"
-        default: "category"
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Slug"
-        name: "slug"
-        widget: "hidden"
-        default: "{{slug}}"
-      - label: "Description"
-        name: "description"
-        widget: "string"
-        required: false
   - label: "Movie"
     name: "movies"
     folder: "_posts"
@@ -109,13 +84,6 @@ collections:
       - label: "Link 2"
         name: "link2"
         widget: "string"
-      - label: "Category"
-        name: "category"
-        widget: "relation"
-        collection: "categories"
-        searchFields: ["title"]
-        valueField: "slug"
-        displayFields: ["title"]
   - label: "Torrent"
     name: "torrents"
     folder: "_posts"
@@ -148,13 +116,6 @@ collections:
       - label: "Magnet Link"
         name: "magnet"
         widget: "string"
-      - label: "Category"
-        name: "category"
-        widget: "relation"
-        collection: "categories"
-        searchFields: ["title"]
-        valueField: "slug"
-        displayFields: ["title"]
   - label: "Posts"
     name: "posts"
     folder: "_posts"
@@ -174,13 +135,6 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
-      - label: "Category"
-        name: "category"
-        widget: "relation"
-        collection: "categories"
-        searchFields: ["title"]
-        valueField: "slug"
-        displayFields: ["title"]
       - label: "Description"
         name: "description"
         hint: "This will be used across the pages and for search engines."
