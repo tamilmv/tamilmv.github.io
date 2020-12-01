@@ -5,7 +5,7 @@ title: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)
   Full Movie Download HD in [Tamil + Hindi + Telugu + English]"
 description: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
   (2005) Full Movie Download HD in [Tamil + Hindi + Telugu + English]"
-category: "{{slug}}"
+
 tags:
   - narnina
   - lion

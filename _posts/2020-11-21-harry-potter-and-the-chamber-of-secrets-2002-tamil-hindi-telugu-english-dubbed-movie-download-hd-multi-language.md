@@ -6,7 +6,7 @@ title: Harry Potter and the Chamber of Secrets (2002)  [Tamil + Hindi + Telugu +
 description: Harry Potter and the Chamber of Secrets (2002)  [Tamil + Hindi +
   Telugu + English] Dubbed Movie Download HD Multi language
 image: /assets/img/uploads/2086550_1280x800.jpg
-category: "{{slug}}"
+
 tags:
   - harrypotter
   - tamil

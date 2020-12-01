@@ -6,7 +6,7 @@ subtitle: Chhota Bheem Movie Collection Download
 description: "Chhota Bheem & Krishna: Mayanagari (2011) Tamil Movie Download,
   Chhota Bheem Movie Collection Download"
 image: /assets/img/uploads/1590073288011_2watchmayanagarionline1920x1080_16x9images.jpg
-category: "{{slug}}"
+
 tags:
   - tamil
   - cartoon

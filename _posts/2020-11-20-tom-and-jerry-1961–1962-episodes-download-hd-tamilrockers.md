@@ -5,7 +5,7 @@ title: Tom and Jerry (1961–1962) Episodes Download HD Tamilrockers
 description: Tom and Jerry (1961–1962) Episodes Download  HD Tamilrockers Tom
   and Jerry Classic episodes download hd online watching
 image: /assets/img/uploads/tom and jerry tamil episodes download - 1961.png
-category: "{{slug}}"
+
 tags:
   - tamil
   - cartoon

@@ -5,7 +5,7 @@ title: "Chhota Bheem: Journey to Petra Full Movie Download in Tamil HD"
 description: "Chhota Bheem: Journey to Petra Full Movie Download in Tamil HD
   Tamilrockers isaimini"
 image: /assets/img/uploads/1590743772446_2watchjournytopetraonline1920x1080_16x9images.jpg
-category: "{{slug}}"
+
 tags:
   - chotta
   - bheem

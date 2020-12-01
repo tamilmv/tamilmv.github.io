@@ -5,7 +5,7 @@ title: Harry Potter and the Half-Blood Prince (2009) [Tamil + Hindi + Telugu +
   English] Dubbed Movie Download HD Multi language
 description: "[Tamil + Hindi + Telugu + English] Dubbed Movie Download HD Multi
   language isaidub, tamilrockers, tamilmv"
-category: "{{slug}}"
+
 tags:
   - harrypotter
   - tamil

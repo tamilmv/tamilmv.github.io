@@ -5,7 +5,7 @@ title: Harry Potter and the Goblet of Fire (2005) [Tamil + Hindi + Telugu +
   English] Dubbed Movie Download HD Multi language
 description: Harry Potter and the Goblet of Fire (2005) [Tamil + Hindi + Telugu
   + English] Dubbed Movie Download HD Multi language
-category: "{{slug}}"
+
 tags:
   - harrypotter
   - tamil

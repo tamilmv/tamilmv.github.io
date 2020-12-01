@@ -1,7 +1,7 @@
 ---
 date: 2020-11-29 18:52:19
 layout: torrent
-category: "{{slug}}"
+
 title: TENET (2020) English HDRip - 720p - x264 - AAC - 900MB - ESub
 size: 900MB
 type: Video

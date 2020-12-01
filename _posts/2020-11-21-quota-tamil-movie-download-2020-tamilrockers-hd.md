@@ -8,7 +8,7 @@ description: "Quota (640x360) TamilRockers Download Quota (640x360) Tamil Movie
   TamilRockers Download TamilRockers Quota (2020) Download Quota (2020) Mp4
   Download "
 image: /assets/img/uploads/screenshot-1058-.png
-category: "{{slug}}"
+
 tags:
   - tamil
   - lockdown

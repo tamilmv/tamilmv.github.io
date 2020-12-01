@@ -5,7 +5,7 @@ title: "Chhota Bheem: Dholakpur to Kathmandu (2012) Full Movie Download Tamil HD
 description: "Chhota Bheem: Dholakpur to Kathmandu (2012) Full Movie Download
   Tamil HD Tamilrockers"
 image: /assets/img/uploads/697863d7b6_07-bheem-dtk.jpg
-category: "{{slug}}"
+
 tags:
   - tamil
   - cartoon

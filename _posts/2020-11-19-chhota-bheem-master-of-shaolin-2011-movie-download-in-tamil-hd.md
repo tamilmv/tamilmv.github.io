@@ -6,7 +6,7 @@ subtitle: "Chhota Bheem: Master of Shaolin Movie Download in HD Tamilrockers isa
 description: "Chhota Bheem: Master of Shaolin (2011) Movie Download in Tamil HD
   Chhota Bheem: Master of Shaolin Movie Download in HD Tamilrockers isaimini"
 image: /assets/img/uploads/1590075596295_2watchmasterofshaolinonline1920x1080_16x9images.jpg
-category: "{{slug}}"
+
 tags:
   - chotta
   - bheem

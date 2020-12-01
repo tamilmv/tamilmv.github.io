@@ -5,7 +5,7 @@ title: "The Chronicles of Narnia: Prince Caspian (2008) Full Movie Download HD
   in [Tamil + Hindi + Telugu + English]"
 description: "The Chronicles of Narnia: Prince Caspian Full Movie Download HD in
   [Tamil + Hindi + Telugu + English]"
-category: "{{slug}}"
+
 tags:
   - narnia
   - dubbed

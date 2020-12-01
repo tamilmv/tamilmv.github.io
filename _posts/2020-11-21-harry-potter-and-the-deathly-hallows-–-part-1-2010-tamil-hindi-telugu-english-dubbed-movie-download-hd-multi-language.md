@@ -5,7 +5,7 @@ title: Harry Potter and the Deathly Hallows – Part 1 (2010) [Tamil + Hindi +
   Telugu + English] Dubbed Movie Download HD Multi language
 description: "[Tamil + Hindi + Telugu + English] Dubbed Movie Download HD Multi
   language isaidub tamilrockers"
-category: "{{slug}}"
+
 tags:
   - harrypotte
   - tamil

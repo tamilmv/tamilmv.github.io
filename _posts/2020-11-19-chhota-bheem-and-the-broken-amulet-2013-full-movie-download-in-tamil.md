@@ -5,7 +5,7 @@ title: Chhota Bheem And The Broken Amulet (2013) Full Movie Download in Tamil
 description: Chhota Bheem And The Broken Amulet (2013) Full Movie Download in
   Tamil HD isaimini Tamilrockers
 image: /assets/img/uploads/chotta-bheem.jpg
-category: "{{slug}}"
+
 tags:
   - tamil
   - cartoon

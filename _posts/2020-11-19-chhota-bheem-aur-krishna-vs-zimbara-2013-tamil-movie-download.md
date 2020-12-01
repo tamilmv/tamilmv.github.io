@@ -7,7 +7,7 @@ description: Chhota Bheem aur Krishna vs Zimbara (2013) Tamil Movie Download HD
   and Watch Online for Free Chhota Bheem and Krishna Tamilrockers Episodes
   Download Free Online Tamilyogi
 image: /assets/img/uploads/chhota-bheem-and-krishna-tamil-episodes-download-free-online.jpg
-category: "{{slug}}"
+
 tags:
   - chotta
   - bheem

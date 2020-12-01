@@ -9,7 +9,7 @@ description: "Chhota Bheem & Krishna: Pataliputra- City of the Dead (2009) Tamil
   Movie Download HD Tamilrockers Watch online Chhota Bheem & Krishna:
   Pataliputra- City of the Dead in Tamil Download Tamilrockers"
 image: /assets/img/uploads/e875b3078b_14-pataliputra.jpg
-category: "{{slug}}"
+
 tags:
   - chotta
   - bheem

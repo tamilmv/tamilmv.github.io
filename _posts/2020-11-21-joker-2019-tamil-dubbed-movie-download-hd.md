@@ -5,7 +5,7 @@ title: Joker 2019 Tamil Dubbed Movie Download HD
 description: Joker 2019 Tamil Dubbed Movie Download HD Print in Tamilrockers
   isaimini isaidub tamilyogi tamilgun movierulz torrent
 image: /assets/img/uploads/1_2ux-4jjnraklij8nhrxcpg.jpeg
-category: "{{slug}}"
+
 author: tamilyogi
 paginate: false
 ---

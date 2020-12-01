@@ -1,7 +1,7 @@
 ---
 date: 2020-11-30 12:29:52
 layout: torrent
-category: "{{slug}}"
+
 title: SCAM 1992 (2020) S01 EP (01-10) TRUE WEB-DL - 720p - AVC - UNTOUCHED -
   [Tamil + Telugu + Malayalam + Hindi] - 4.2GB - ESub
 size: 4.2GB

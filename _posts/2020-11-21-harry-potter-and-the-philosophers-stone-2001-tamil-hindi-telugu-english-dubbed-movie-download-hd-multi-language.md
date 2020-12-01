@@ -9,7 +9,7 @@ description: Harry Potter and the Philosopher's Stone Tamil Dubbed Movie
   Download, Harry Potter and the Philosopher's Stone Movie Download English 2001
   Tamilrockers isaidub
 image: /assets/img/uploads/e7a96cd106d1e67851f49d3be12f1d7e587b9ec6.jpg
-category: "{{slug}}"
+
 tags:
   - harrypotter
   - tamil

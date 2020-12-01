@@ -20,7 +20,7 @@ description: Biskoth (Tamil) TamilRockers Download Biskoth (Tamil) Tamil Movie
   Movie TamilRockers Download TamilRockers Biskoth (640x360) Download Biskoth
   (640x360) Mp4 Download
 image: /assets/img/uploads/maxresdefault.jpg
-category: "{{slug}}"
+
 ---
 **Name**: Biskoth
 

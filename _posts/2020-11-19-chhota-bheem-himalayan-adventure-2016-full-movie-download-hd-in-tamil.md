@@ -5,7 +5,7 @@ title: Chhota Bheem Himalayan Adventure (2016) Full Movie Download HD in Tamil
 description: Chhota Bheem Himalayan Adventure (2016) Full Movie Download HD in
   Tamilrockers isaimini
 image: /assets/img/uploads/vv.jpg
-category: "{{slug}}"
+
 tags:
   - chotta
   - bheem

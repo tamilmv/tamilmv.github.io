@@ -6,7 +6,7 @@ title: Harry Potter and the Deathly Hallows – Part 2 (2011) [Tamil + Hindi +
 description: "Harry Potter and the Deathly Hallows – Part 2 [Tamil + Hindi +
   Telugu + English] Dubbed Movie Download HD Multi language isaidub tamilrockers
   "
-category: "{{slug}}"
+
 tags:
   - harrypotter
   - tamil

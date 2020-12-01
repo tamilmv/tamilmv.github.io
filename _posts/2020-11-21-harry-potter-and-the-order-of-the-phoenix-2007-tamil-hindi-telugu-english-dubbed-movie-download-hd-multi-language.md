@@ -5,7 +5,7 @@ title: Harry Potter and the Order of the Phoenix (2007) [Tamil + Hindi + Telugu
   + English] Dubbed Movie Download HD Multi language
 description: Harry Potter and the Order of the Phoenix (2007) [Tamil + Hindi +
   Telugu + English] Dubbed Movie Download HD Multi language isaidub,tamilrockers
-category: "{{slug}}"
+
 tags:
   - harrypotter
   - tamil

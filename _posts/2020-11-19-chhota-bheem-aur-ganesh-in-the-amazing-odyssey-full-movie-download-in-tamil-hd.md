@@ -5,7 +5,7 @@ title: Chhota Bheem Aur Ganesh In The Amazing Odyssey Full Movie Download in Tam
 description: Chhota Bheem Aur Ganesh In The Amazing Odyssey Full Movie Download
   in Tamil HDrockers isaimini
 image: /assets/img/uploads/1590074655659_2watchbheemganeshonline1020x1080_16x9images.jpg
-category: "{{slug}}"
+
 tags:
   - chotta
   - bheem

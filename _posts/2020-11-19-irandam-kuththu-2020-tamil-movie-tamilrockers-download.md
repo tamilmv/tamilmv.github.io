@@ -7,7 +7,7 @@ description: Irandam Kuththu (2020) TamilRockers Download Irandam Kuththu (2020)
   Tamil Movie TamilRockers Download TamilRockers Irandam Kuththu (2020) Download
   Irandam Kuththu (2020) Mp4 Download TamilYaya.Net
 image: /assets/img/uploads/irandam-kuththu-movie.png
-category: "{{slug}}"
+
 tags:
   - tamil
 author: tamilyogi
