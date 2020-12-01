@@ -8,5 +8,5 @@ size: 4.3 MB
 artist: G.V. Prakash Kumar, Christin Jos, Govind Vasantha
 link1: https://masstamilan.io/downloader/FuFLgC4qkf-_GRYYS-yQKg/1606750203/d128_cdn/19082
 link2: https://masstamilan.io/downloader/FuFLgC4qkf-_GRYYS-yQKg/1606750203/d320_cdn/19082
-category: "{{slug}}"
+
 ---
