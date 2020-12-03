@@ -5,8 +5,8 @@ category: movie
 title: Ka Pae Ranasingam (2020) Movie Download HD Tamilrockers
 seotitle: Ka Pae Ranasingam
 poster: http://kuttymovies7.net/poster/Ka_Pae_Ranasingam_(2020)_Movie_Poster.jpg
-size: 677 MB
+size: 900 MB
 year: "2020"
-link1: http://c3.wetransfer.vip/files/Tamil%20Movies/Tamil%202020%20Movies/Ka%20Pae%20Ranasingam%20(2020)/Ka%20Pae%20Ranasingam%20(2020)%20Proper%20HDRip/Ka%20Pae%20Ranasingam%20(2020)%20Single%20Part%20(640x360).mp4
-link2: http://c3.wetransfer.vip/files/Tamil%20Movies/Tamil%202020%20Movies/Ka%20Pae%20Ranasingam%20(2020)/Ka%20Pae%20Ranasingam%20(2020)%20Proper%20HDRip/Ka%20Pae%20Ranasingam%20(2020)%20Single%20Part%20(640x360).mp4
+link1: https://drive.himanshurahi.workers.dev/0:/uploadbot/www.1TamilMV.win%20-%20Ka%20Pae%20Ranasingam%20(2020)%20Tamil%20HDRip%20-%20720p%20-%20HEVC%20-%20AAC%20-%20850MB%20-%20ESub.mkv
+link2: https://drive.himanshurahi.workers.dev/0:/uploadbot/www.1TamilMV.win%20-%20Ka%20Pae%20Ranasingam%20(2020)%20Tamil%20HDRip%20-%20720p%20-%20HEVC%20-%20AAC%20-%20850MB%20-%20ESub.mkv
 ---
