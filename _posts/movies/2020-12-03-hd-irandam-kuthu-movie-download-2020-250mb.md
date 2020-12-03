@@ -2,7 +2,7 @@
 date: 2020-12-03 22:27:00
 layout: movie
 category: movie
-title: "[HD] Irandam Kuthu Movie Download 2020 [250MB]"
+title: "[HD] Irandam kuththu Movie Download 2020 [250MB]"
 seotitle: Irandam Kuthu
 poster: https://extraimages.net/images/2020/12/03/vlcsnap-2020-12-03-08h21m50s295.md.png
 size: 250 MB
