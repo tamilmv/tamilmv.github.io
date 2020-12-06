@@ -3,7 +3,7 @@ date: 2020-12-06 10:08:17
 layout: movie
 category: movie
 title: Harry Potter and the Chamber of Secrets (2002)
-seotitle: Harry Potter and the Chamber of Secrets (2002) Dubbed
+seotitle: Harry Potter and the Chamber of Secrets
 poster: https://hd.isaiminiweb.online/assets/img/uploads/2086550_1280x800.jpg
 size: 2.22 GB
 year: "2002"
