@@ -93,8 +93,8 @@ proxy6: "https://moviesda.isaiminiweb.online"
 proxy7: "https://movies.isaiminiweb.online"
 proxy8: "https://tamilgun.isaiminiweb.online"
 proxy9: "https://tamilrockers.isaiminiweb.online"
-proxy11: "https://www.isaiminiweb.online"
-proxy12: "https://download.isaiminiweb.online"
+proxy10: "https://www.isaiminiweb.online"
+proxy11: "https://download.isaiminiweb.online"
 
 # Build settings
 markdown: kramdown
