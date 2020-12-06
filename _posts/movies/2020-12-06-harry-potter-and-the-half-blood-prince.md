@@ -2,7 +2,7 @@
 date: 2020-12-06 10:56:18
 layout: movie
 category: movie
-title: Harry Potter and the Half-Blood Prince
+title: Harry Potter and the Half-Blood Prince (2009)
 seotitle: Harry Potter and the Half-Blood Prince
 poster: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfvPNoMErUaTuqu4glqpMFMlQX5Pe2Dfgbff0EbH6CyZBmo_vC
 size: 1.94 GB
