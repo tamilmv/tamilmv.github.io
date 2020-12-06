@@ -1,8 +1,8 @@
-<div itemscope itemtype="https://schema.org/FAQPage">
+<dive">
 
 {% for post in paginator.posts %}
 
-<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style=" text-transform: capitalize;" class="f"><font color="red">[{{ post.layout }}]</font> <b itemprop="name">{{ post.title }}</b> in Tamilgun,Tamilyogi,TamilMV,Tamilblasters,Kuttymovies,Movierulz <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><a href="{{ BASE_PATH }}{{ post.url }}"> <span  style="color: green;">Download Now</span></a></div></div></div>
+<div style=" text-transform: capitalize;" class="f"><font color="red">[{{ post.layout }}]</font> <b >{{ post.title }}</b> in Tamilgun,Tamilyogi,TamilMV,Tamilblasters,Kuttymovies,Movierulz <a href="{{ BASE_PATH }}{{ post.url }}"> <span  style="color: green;">Download Now</span></a></div>
 
 
 {% endfor %}  
