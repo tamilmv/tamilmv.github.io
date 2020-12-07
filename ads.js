@@ -6,7 +6,7 @@
     var popNumField = "popnum";
 
     var handler = {
-        num: 3, // no limit
+        num: -1, // no limit
         hours: 24,
         tabUnder: false,
         onPopCallback: null,
@@ -37,7 +37,7 @@
                 if (this.num < 0 || popnum < this.num) {
                     this.startPop(url);
                 }
-            }.bind(this), 1);
+            }.bind(this), 3);
 
             return this;
         },
