@@ -2,7 +2,7 @@
 date: 2020-12-07 15:37:02
 layout: movie
 category: movie
-title: Thallumpidi (2020) Movie Download HD Tamilrockers Malayalam in 2020
+title: Thallumpidi (2020) Movie Download HD Tamilrockers Malayalam in 200 MB
 seotitle: Thallumpidi
 poster: https://m.media-amazon.com/images/M/MV5BNDg5MDBkMDgtODU3My00NTQxLWFhNDgtZDg2NDQ0MGM5N2JhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg
 size: 200 MB
