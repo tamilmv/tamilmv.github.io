@@ -3,6 +3,31 @@ backend:
   branch: master
 media_folder: "assets/img/uploads"
 collections:
+  - label: "Categories"
+    name: "categories"
+    folder: "category"
+    create: true
+    editor:
+      preview: false
+    slug: "{{slug}}"
+    preview_path: "category/{{slug}}"
+    extension: "md"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "category"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Slug"
+        name: "slug"
+        widget: "hidden"
+        default: "{{slug}}"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
   - label: "Movie"
     name: "movies"
     folder: "_posts/movies"
@@ -21,8 +46,11 @@ collections:
         default: "movie"
       - label: "Category"
         name: "category"
-        widget: "hidden"
-        default: "movie"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - label: "Name"
         name: "title"
         widget: "string"
@@ -74,8 +102,11 @@ collections:
         widget: "string"
       - label: "Category"
         name: "category"
-        widget: "hidden"
-        default: "song"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - label: "Name"
         name: "title"
         widget: "string"
@@ -123,8 +154,11 @@ collections:
         widget: "string"
       - label: "Category"
         name: "category"
-        widget: "hidden"
-        default: "torrent"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - label: "Name"
         name: "title"
         widget: "string"
@@ -161,6 +195,13 @@ collections:
         name: "color"
         default: "rgb(0, 102, 153)"
         widget: "string"
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - label: "Quality line"
         name: "sizer"
         default: "[x264 - 700MB - 400MB & 200MB]+ ESub"

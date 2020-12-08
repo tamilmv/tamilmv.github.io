@@ -1,6 +1,5 @@
 ---
 date: 2020-12-07 19:44:34
-layout: torrent
 category: torrent
 title: Transformers Pentalogy (2007 to 2017)[720p - BDRip's - [Tamil + Telugu +
   Hindi + Eng] - x264 - 6.7GB - ESubs]
