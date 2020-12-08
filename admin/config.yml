@@ -159,6 +159,9 @@ collections:
         searchFields: ["title"]
         valueField: "slug"
         displayFields: ["title"]
+      - label: "Image URL"
+        name: "imgurl"
+        widget: "string"
       - label: "Name"
         name: "title"
         widget: "string"
