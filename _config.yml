@@ -1,10 +1,70 @@
-# Site Settings
+google_analytics: UA-179466109-1
+show_modal_on_finish_post: false
+medium_username: medium_username
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+  - jekyll-feed
+  - jekyll-sitemap
+highlighter: rouge
+twitter_username: twitter_username
+proxy0: https://tamilmv.isaimini.live
+use_logo: false
+show_time_bar: false
+instagram_username: instagram_username
+proxy1: https://movies.isaimini.live
+proxy2: https://moviesda.isaimini.live
+proxy3: https://tamilyogi.isaimini.live
+proxy4: https://tamilyogi.isaiminiweb.online
+proxy5: https://tamilmv.isaiminiweb.online
+proxy6: https://moviesda.isaiminiweb.online
+proxy7: https://movies.isaiminiweb.online
+show_modal_on_exit: false
+proxy8: https://tamilgun.isaiminiweb.online
 name: Isaimini
-title: Isaimini | Download and Watch Latest Tamil, Telugu, Malayalam, Hindi
-  Movies at High Quality.
+permalink: /:title/
+proxy9: https://tamilrockers.isaiminiweb.online
+proxy10: https://www.isaiminiweb.online
+paginate_path: /page/:num/
+proxy11: https://download.isaiminiweb.online
+sass:
+  style: compressed
+markdown: kramdown
+url: https://m.isaiminiweb.online
+facebook_username: facebook_username
+sent_message_url: /contact/message-sent/
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: --page-break--
+  permalink: /:num/
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+categories_folder: category
+github_username: github_username
 description: Download and Watch Latest Tamil, Telugu, Malayalam, Hindi Movies at
   High Quality. Tamil Latest Movies and Tamil Dubbed Movies Free Download in HD
   Online Watching Free Tentrockers
+show_hero: false
+disqus_username: disqus_username
+collections:
+  authors:
+    output: true
+paginate: 30
+linkedin_username: linkedin_username
+version: v3.1.0
+title: Isaimini | Download and Watch Latest Tamil, Telugu, Malayalam, Hindi
+  Movies at High Quality.
+language: en
 tags:
   - isaimini
   - moviesda
@@ -35,122 +95,24 @@ tags:
   - tamilkit
   - movieskit
   - proxy
-show_hero: false
-paginate: 30
+exclude:
+  - package.json
+  - package-lock.json
+  - src
+  - node_modules
+  - initpost.sh
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - README.md
+show_get_theme_btn: false
+email: ""
+baseurl: ""
+feed:
+  posts_limit: 2000
+two_columns_layout: true
 menu:
   - title: Home
     url: /
-  - url: /category/Tamil/
-    title: Tamil Movies
-  - title: Telugu Movies
-    url: /category/Telugu/
-  - url: /category/Hindi/
-    title: Hindi Movies
-  - title: English Movies
-    url: /category/Hollywood/
-  - url: /category/Series/
-    title: Web Series
-  - title: Telegram
-    url: tg://resolve/?domain=isaiminidownload
-email: ""
-disqus_username: disqus_username
-
-
-# Social Media Settings
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
-
-# Posts Settings
-show_time_bar: false
-show_modal_on_exit: false
-show_modal_on_finish_post: false
-two_columns_layout: true
-
-
-# Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://m.isaiminiweb.online" # the base hostname & protocol for your site
-google_analytics: "UA-179466109-1"
-language: "en"
-categories_folder: category
-sent_message_url: "/contact/message-sent/"
-
-
-# Proxies
-proxy0: "https://tamilmv.isaimini.live" # the base hostname & protocol for your sit
-proxy1: "https://movies.isaimini.live" # the base hostname & protocol for your site
-proxy2: "https://moviesda.isaimini.live" # the base hostname & protocol for your site
-proxy3: "https://tamilyogi.isaimini.live" # the base hostname & protocol for your site
-proxy4: "https://tamilyogi.isaiminiweb.online"
-proxy5: "https://tamilmv.isaiminiweb.online"
-proxy6: "https://moviesda.isaiminiweb.online"
-proxy7: "https://movies.isaiminiweb.online"
-proxy8: "https://tamilgun.isaiminiweb.online"
-proxy9: "https://tamilrockers.isaiminiweb.online"
-proxy10: "https://www.isaiminiweb.online"
-proxy11: "https://download.isaiminiweb.online"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
-collections:
-  authors:
-    output: true
-paginate_path: "/page/:num/"
-show_get_theme_btn: false
-use_logo: false
-
-# Content paginator
-paginate_content:
-  enabled: true
-  debug: false
-  collections:
-    - posts
-  auto: false
-  separator: "--page-break--"
-  permalink: "/:num/"
-  seo_canonical: true
-  properties:
-    part:
-      is_generated: true
-    last:
-      is_generated: true
-    single:
-      is_generated: true
-
-# SASS
-sass:
-  style: compressed
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-paginate-content
-  - jekyll-feed
-  - jekyll-sitemap 
-
-# Exclude my node related stuff
-exclude: [
-  'package.json',
-  'package-lock.json',
-  'src',
-  'node_modules',
-  'initpost.sh',
-  'Gemfile',
-  'Gemfile.lock',
-  'gulpfile.js',
-  'README.md'
-]
-
-# Theme
-version: v3.1.0
-
-feed:
-  posts_limit: 2000
+  - title: Tamil Dubbed Movies
+    url: /category/tamil-dubbed-movies/
