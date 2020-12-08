@@ -1,8 +1,11 @@
 ---
 date: 2020-12-07 19:40:52
 layout: torrent
-title: Avengers Trilogy (2012 to 2018)[720p - BDRip's - Original Audios - [Tamil
-  + Telugu + Hindi + Eng] - x264 - 1.4GB's - ESubs]
+color: blue
+sizer: "[720p - BDRip's - Original Audios - [Tamil + Telugu + Hindi + Eng] -
+  x264 - 1.4GB's - ESubs]"
+category: "{{slug}}"
+title: Avengers Trilogy (2012 to 2018)
 size: 1.4GB
 type: Video
 torrent: https://web.archive.org/web/20200131175216/http://tamilrockers.ws/index.php?app=core&module=attach&section=attach&attach_id=25965
