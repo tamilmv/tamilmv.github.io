@@ -113,8 +113,8 @@ div.scrollmenu a:hover {
   </head>
 <body>
   <header style=" text-align: center; padding: 20px; " class='ipsClearfix' id='header'>
-							<a accesskey='1' class='clogo' href='/' id='c'><img alt='tamilrockers.ws' src='https://www.1tamilmv.live/uploads/monthly_2020_09/logo.png.635a011b01c97555a09f57bfd0e6b405.png.c640336697c651c129098653153f24ab.png'/></a>
-				</header>
+<a accesskey='1' class='clogo' href='/' id='c'><img alt='tamilrockers.ws' src='https://www.1tamilmv.live/uploads/monthly_2020_09/logo.png.635a011b01c97555a09f57bfd0e6b405.png.c640336697c651c129098653153f24ab.png'/></a>
+</header>
   
   
   
@@ -122,21 +122,13 @@ div.scrollmenu a:hover {
   
   
   <div style=" text-align: center;" class='scrollmenu'>
-  <a href='#home'>Home</a>
-  <a href='#news'>News</a>
-  <a href='#contact'>Contact</a>
-  <a href='#about'>About</a>
-  <a href='#support'>Support</a>
-  <a href='#blog'>Blog</a>
-  <a href='#tools'>Tools</a>  
-  <a href='#base'>Base</a>
-  <a href='#custom'>Custom</a>
-  <a href='#more'>More</a>
-  <a href='#logo'>Logo</a>
-  <a href='#friends'>Friends</a>
-  <a href='#partners'>Partners</a>
-  <a href='#people'>People</a>
-  <a href='#work'>Work</a>
+	 	  
+   {% for item in site.menu %}
+    {% if item.title and item.url %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+    {% endif %}
+  {% endfor %}  
+  
 </div>
   
   
