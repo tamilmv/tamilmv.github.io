@@ -9,3 +9,7 @@
 <span style="color:{{ post.color }}">{{ post.sizer }}</span> <span style="color:red"> Download</span>
 </a></strong></u></span></span>
 </p>
+
+{% for category in site.categories %}
+        <li><a href="{{ category.url }}"><strong>{{ category.title }}</strong></a></li>
+{% endfor %}
