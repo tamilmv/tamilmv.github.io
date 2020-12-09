@@ -120,6 +120,14 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
   background-color: #777;
 }
+	.contenti a {
+    color: #ff0000 !important;
+}
+	.contenti img {
+    border: 0;
+    width: 30% !important;
+    height: auto !important;
+}
 </style>
 
   </head>
@@ -175,9 +183,15 @@ div.scrollmenu a:hover {
 	 <img typeof="foaf:Image" src="{{ page.imgurl }}" height="auto" width="50%" alt="{{ page.title }}" title="{{ page.title }}" class="tbl" />
 	 </div>
 		 
-		 {{ content }}
+
 		 
 			 </center>
+	 
+	  <div class="contenti">
+    <center>
+        {{ content }}
+        </center>
+	    </div>
 </div>
 
     <div style=" text-align: center;" class='scrollmenu'>
